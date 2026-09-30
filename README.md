@@ -70,24 +70,6 @@ The trained model achieved the following results on the evaluation dataset:
 | mAP@50-95 | 86.4% |
 
 These results show that the model was able to detect the target furniture classes with high precision and recall.
-
-## Project Structure
-
-```text
-yolov8-furniture-object-detection/
-│
-├── README.md
-│
-├── notebook/
-│   └── YOLO_Object_Detection.ipynb
-│
-├── data/
-│   └── data.yaml
-│
-├── results/
-│   └── detection-results/
-│
-└── requirements.txt
 ````
 
 ## Installation
@@ -95,8 +77,8 @@ yolov8-furniture-object-detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Gaganbt03/yolov8-furniture-object-detection.git
-cd yolov8-furniture-object-detection
+git clone https://github.com/Gaganbt03/YOLO_Project_1.git
+cd YOLO_Project_1
 ```
 
 Install the required Python packages:
